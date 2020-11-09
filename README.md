@@ -4,9 +4,10 @@ Pequeno projeto de um Gerenciador de Senhas em Python, com uso de SQL, Tkinter.
 Converti o resultado final da aplicação em um arquivo executável com ícone personalizado e com todas as funções requeridas funcionando. 
 O aplicativo necessita, primeiramente, de um acesso com senha, que já está predefinida no "Gerenciador_de_Senhas.py". A partir do acesso com senha o usuário é capaz de registrar perfis de seus serviços preferidos, como Youtube, Facebook, Twitter, seus jogos ou plataformas preferidas. 
 
+(Senha MESTRE - 123)
+
 Login:
 
-(Senha MESTRE - 123)
 ![](https://user-images.githubusercontent.com/56975955/75189706-83868f00-572d-11ea-9498-b67b03e6d4db.png)
 
 Inserção de Serviços:
