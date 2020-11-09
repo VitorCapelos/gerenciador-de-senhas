@@ -3,7 +3,7 @@ import sqlite3
 import random
 import string
 
-MASTER_PASSWORD = '123456'
+MASTER_PASSWORD = '123'
 
 global service
 global username
