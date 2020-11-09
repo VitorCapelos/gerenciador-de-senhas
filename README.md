@@ -6,6 +6,7 @@ O aplicativo necessita, primeiramente, de um acesso com senha, que já está pre
 
 Login:
 
+(Senha MESTRE - 123)
 ![](https://user-images.githubusercontent.com/56975955/75189706-83868f00-572d-11ea-9498-b67b03e6d4db.png)
 
 Inserção de Serviços:
